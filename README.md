@@ -34,13 +34,11 @@ Methodology overview:
 └── README.md
 ```
 
-`core` holds configuration constants, data loading and dataset classes, and radiomics feature extraction and caching. `modeling` holds the segmentation backbone, the radiomics regressor, the domain discriminator, and the loss functions that operate on their outputs. `training` holds the supervised pretraining loop, the adaptation loop, and the shared validation routine. `scripts` provides the command line entry points that tie these together for feature precomputation, pretraining, adaptation, resumed adaptation, and checkpoint evaluation.
-
 ## Dataset
 
 RADIANT is evaluated on the BraTS benchmark datasets:
 
-> Each case contains four co-registered MRI modalities, FLAIR, T1, T1ce, and T2. Cases are organized under separate `HGG` and `LGG` directories. HGG cases form the labeled source domain, and LGG cases form the unlabeled target domain, with ground truth withheld during adaptation.
+> Each case contains four co-registered MRI modalities: FLAIR, T1, T1ce, and T2. Cases are organized under separate `HGG` and `LGG` directories. HGG cases form the labeled source domain, and LGG cases form the unlabeled target domain, with ground truth **withheld** during adaptation.
 
 ## Setup
 
