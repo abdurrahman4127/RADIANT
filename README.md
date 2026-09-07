@@ -72,6 +72,8 @@ The following Python packages are required to run the code:
 - tqdm >= 4.66.0
 - pyradiomics >= 3.0.1
 
-## Citation
-
-Will be updated.
+## Citation 
+> [!NOTE]
+> Citation will be updated soon. The paper is currently under review and can be accessed through this link:
+> 
+> [![PDF](https://img.shields.io/badge/PDF-Download-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/abdurrahman4127/abdurrahman4127.github.io/blob/main/pdfs/IAR-Grant-2-RADIANT.pdf)
