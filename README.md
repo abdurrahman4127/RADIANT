@@ -5,7 +5,7 @@ This repository contains the source code for **RADIANT**, an unsupervised domain
 Methodology overview:
 
 ![Methodology](fig/overview.png)
-
+[![Manuscript PDF](https://img.shields.io/badge/PDF-Download-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/abdurrahman4127/abdurrahman4127.github.io/blob/main/pdfs/IAR-Grant-2-RADIANT.pdf)
 
 ## Directories
 
@@ -74,6 +74,6 @@ The following Python packages are required to run the code:
 
 ## Citation 
 > [!NOTE]
-> Citation will be updated soon. The paper is currently under review and can be accessed through this link:
-> 
-> [![PDF](https://img.shields.io/badge/PDF-Download-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/abdurrahman4127/abdurrahman4127.github.io/blob/main/pdfs/IAR-Grant-2-RADIANT.pdf)
+> Citation will be updated soon. The paper is currently under review. An early version is available at the following link:
+>
+> [![Manuscript PDF](https://img.shields.io/badge/PDF-Download-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/abdurrahman4127/abdurrahman4127.github.io/blob/main/pdfs/IAR-Grant-2-RADIANT.pdf)
